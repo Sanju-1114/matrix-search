@@ -57,5 +57,6 @@ Searching for `target = 5` returns `true`.
 ## Author
 - GitHub: [Sanju-1114](https://github.com/Sanju-1114)
 
+
 ## License
 This project is licensed under the MIT License.
