@@ -58,6 +58,8 @@ The solution is implemented in `twoD_vectors_SearchII.cpp`. It uses an efficient
 3. The sample test case searches for `target = 5` in a predefined matrix and outputs `1` (true) if found, or `0` (false) if not.
 
 
+---
+
 ## Example
 
 For the matrix:
@@ -69,6 +71,8 @@ For the matrix:
  [18, 21, 23, 26, 30]]
 ```
 Searching for `target = 5` returns `true`.
+
+---
 
 ## Author
 - GitHub: [Sanju-1114](https://github.com/Sanju-1114)
