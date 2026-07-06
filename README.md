@@ -2,6 +2,8 @@
 
 This repository contains a solution to LeetCode Problem 240: Search a 2D Matrix II, implemented in C++.
 
+---
+
 ## Problem Description
 
 Write an efficient algorithm that searches for a value `target` in an `m x n` matrix `mat`. This matrix has the following properties:
