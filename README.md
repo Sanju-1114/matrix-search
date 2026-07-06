@@ -37,8 +37,12 @@ The solution is implemented in `twoD_vectors_SearchII.cpp`. It uses an efficient
 ### Space Complexity
 - **O(1)**, as no extra space is used.
 
+---
+
 ## Files
 - `twoD_vectors_SearchII.cpp`: Contains the C++ implementation of the search algorithm and a sample test case.
+
+---
 
 ## Usage
 1. Clone the repository:
