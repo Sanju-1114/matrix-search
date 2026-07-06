@@ -16,6 +16,8 @@ Write an efficient algorithm that searches for a value `target` in an `m x n` ma
 
 The solution is implemented in `twoD_vectors_SearchII.cpp`. It uses an efficient search algorithm starting from the top-right corner of the matrix and leverages the sorted properties to eliminate rows or columns in each step.
 
+---
+
 ### Algorithm
 - Start from the top-right corner (`row = 0`, `col = n-1`).
 - Compare the target with the current element:
